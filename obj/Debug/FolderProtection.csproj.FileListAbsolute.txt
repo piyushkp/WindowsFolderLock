@@ -1,0 +1,11 @@
+D:\Extra_Techies\Folder Lock\FolderProtection\bin\Debug\FolderProtection.exe
+D:\Extra_Techies\Folder Lock\FolderProtection\bin\Debug\FolderProtection.pdb
+D:\Extra_Techies\Folder Lock\FolderProtection\obj\Debug\ResolveAssemblyReference.cache
+D:\Extra_Techies\Folder Lock\FolderProtection\obj\Debug\FolderProtection.checkpassword.resources
+D:\Extra_Techies\Folder Lock\FolderProtection\obj\Debug\FolderProtection.Form1.resources
+D:\Extra_Techies\Folder Lock\FolderProtection\obj\Debug\FolderProtection.password.resources
+D:\Extra_Techies\Folder Lock\FolderProtection\obj\Debug\FolderProtection.Properties.Resources.resources
+D:\Extra_Techies\Folder Lock\FolderProtection\obj\Debug\ResGen.read.1.tlog
+D:\Extra_Techies\Folder Lock\FolderProtection\obj\Debug\ResGen.write.1.tlog
+D:\Extra_Techies\Folder Lock\FolderProtection\obj\Debug\FolderProtection.exe
+D:\Extra_Techies\Folder Lock\FolderProtection\obj\Debug\FolderProtection.pdb
